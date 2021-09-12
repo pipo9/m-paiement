@@ -1,10 +1,3 @@
-Développement et Déploiement d’une Cloud-Native Application
-Faire communiquer les Microservices entre eux de façon simple et automatisée
-Externaliser les fichiers de configuration
-Rendre l'application scalable
-Sécuriser l'application
-Mettre en place des outils de débuggage et de maintenance
-Composants de ce projet
 Ce projet est composé de plusieurs microservices, chaque microservice est dans une repository indépendant, vous allez trouver chaque repository ci dessous.
 
 "Microservice-produits" :
